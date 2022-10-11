@@ -1,1 +1,1 @@
-https://vite-project-baf31.web.app/signup
+https://vite-project-baf31.web.app/
